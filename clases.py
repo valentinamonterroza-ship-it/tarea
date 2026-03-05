@@ -51,4 +51,3 @@ class Mascota:
     def asignarLista_Medicamentos(self,n):
         self.__lista_medicamentos = n 
 
-if __name__ ==" __main":
